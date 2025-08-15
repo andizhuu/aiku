@@ -1,0 +1,2 @@
+# aiku
+ai dan otomasi
